@@ -3,7 +3,7 @@
 const page1 = ({ searchHandler }) => {
     return (
       <div className="container ">
-        <p>hello</p>
+        <p>hello world</p>
       </div>
     );
   };
